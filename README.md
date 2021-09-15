@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @parables-of-paul
 - 👀 I’m interested in Music, new ways of telling stories, and exploring new places.
-- 🌱 I’m currently learning VueJS
 - 📫 How to reach me - paulsimmonds6@googlemail.com
 
 <!---
